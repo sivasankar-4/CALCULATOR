@@ -1,33 +1,15 @@
-This is a simple web-based Calculator Application built using HTML, CSS, and JavaScript.
-It performs basic arithmetic operations and demonstrates core JavaScript concepts such as DOM manipulation, event handling, and state management.
+# Calculator App
 
+A simple web calculator built using **HTML, CSS, and JavaScript** that performs basic arithmetic operations through an interactive user interface.
 
-Features
+## Features
+- Addition, Subtraction, Multiplication, Division
+- Decimal number support
+- Clear (C) and Delete (DEL) functions
+- Operator display while typing
+- Division-by-zero handling
 
-Addition (+)
-
-Subtraction (−)
-
-Multiplication (×)
-
-Division (÷)
-
-Decimal input support
-
-Clear all (C)
-
-Delete last digit (DEL)
-
-Operator display while typing
-
-Prevents multiple decimals
-
-Division-by-zero handling
-
-Technologies Used
-
-HTML 
-
-CSS 
-
-JavaScript 
+## Technologies Used
+- **HTML**
+- **CSS** 
+- **JavaScript**
